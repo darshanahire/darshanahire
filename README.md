@@ -4,7 +4,7 @@
  <img width="50%" height="auto" src="https://res.cloudinary.com/darshanscloud/image/upload/v1637320650/nay3aduln51whxrgzgtv.png" /></a>
 </p>
 
-<h1 align="center">hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Darshan
+<h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10%" height="auto"> I'm Darshan
 <h3 align="center">I'm a Full Stack Developer and 3rd year Computer Engineering Student.</h3>
 
  ## 🙋‍♂️ About Me
