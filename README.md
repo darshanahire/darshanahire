@@ -76,3 +76,7 @@
  
 ## ❤ Views and Followers
 <a href="https://github.com/darshanahire?tab=followers"><img src="https://img.shields.io/github/followers/darshanahire?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/darshanahire)  
+ 
+ Watch my contribution graph being eaten by a Snake! 🐍
+
+![Watch my contribution graph being eaten by a Snake!](https://res.cloudinary.com/darshanscloud/image/upload/v1659541436/rxmmjyct0hsvjuucyho1.svg)
